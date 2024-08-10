@@ -1,10 +1,4 @@
-import requests
-import json
-import time
-from collections import defaultdict
-import winsound  # For playing sound on Windows
-import logging
-import os
+
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
